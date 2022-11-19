@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0d3CFyGmBeM4ly3U1VVaC1YIVxQoIkmsC5crne95LV2PInnZbj/adS5lggNi26t7GHaMHicAe83AKySr88sLQ==",
+  "dgSpecHash": "kmEn8MzGQp/2435vuEX/8K4Pfbuvq7mSgqD1KECjpNvDWgXubJbb9yQY6pnTKDiZXg7x+ZRNjGRpFOHY3s5+3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\ChurchAPI.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\ChurchAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

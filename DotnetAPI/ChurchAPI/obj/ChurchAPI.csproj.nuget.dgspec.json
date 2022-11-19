@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\ChurchAPI.csproj": {}
+    "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\ChurchAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\ChurchAPI.csproj": {
+    "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\ChurchAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\ChurchAPI.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\ChurchAPI.csproj",
         "projectName": "ChurchAPI",
-        "projectPath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\ChurchAPI.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\ChurchAPI.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotnetAPI\\ChurchAPI\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\DotNet2\\ProjetoIndra\\DotNetAPI\\ChurchAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
